@@ -36,7 +36,6 @@ import food from './food.json'
 
 export default {
   components: {
-    // eslint-disable-next-line vue/no-unused-components
     SideBar
   },
   data () {
